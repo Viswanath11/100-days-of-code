@@ -9,19 +9,15 @@ TFT - Tasks For Tomorrow.
 ### R1D1 
 Started working on CodeFighter Arcade and HackerRank's' 30DaysOfCode challenges. Yep, Challenge in a challenge. Soved 1 problem in each of those challenges.
 <Summary>
-
 <ProblemSolving&Coding>
 HR - 1 problem
 CF - 1 problem
-
 <SD>
 CCI/PIE/EPI - DNWOI
 QP -  DNWOI
 SP -  DNWOI
-
 <Linguistics>
 Dutch - 
-
 <TFT>
 Set up proper profile in both HR & CF tomorrow.
 
